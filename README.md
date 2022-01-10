@@ -1,6 +1,6 @@
 # Endless-Maths-the-Game
 
-First of all, unfortunately both the game itself and the code behind it are so heavy for github that I had to upload them in Dropbox and share the links here, this is why this repository has only this readme file in it.
+First of all, unfortunately both the game itself and the code behind it are so heavy for GitHub that I had to upload them in Dropbox and share the links here, this is why this repository has only this readme file in it.
 
 This unity game is made in order to help students, especially those in middleschool and highschool, and generally anyone else that is interested solve basic math equations correctly and very fast, while also making it entertaining and engaging.
 
