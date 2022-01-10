@@ -1,1 +1,1 @@
-# Endless-Math-the-Game
+# Endless-Maths-the-Game
