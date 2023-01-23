@@ -2,7 +2,7 @@
 
 First of all, unfortunately both the game itself and the code behind it are so heavy for GitHub that I had to upload them in Dropbox and share the links here, this is why this repository has only this readme file in it.
 
-This unity game is made in order to help students, especially those in middle school and high school, and generally anyone else that is interested solve basic math equations correctly and very fast, while also making it entertaining and engaging.
+This unity game aims to help students, especially those in middle school and high school, and generally anyone else that is interested solve basic math equations correctly and very fast, while also making it entertaining and engaging.
 
 The following links contain the folder of the game as well as the folder with all the code that generated the executable game. More specifically it contains:
 
